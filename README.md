@@ -26,7 +26,7 @@ train.csv und store.csv: https://www.kaggle.com/c/rossmann-store-sales/data
 Durch Auswahl eines geeigneten ml-modells kann die Genauigkeit drastisch gesteigert werden.\
 Hier als Beispiell für die Filiale 764:
 
-<img src="https://github.com/user-attachments/assets/9325125d-7bed-42d7-a04f-d7cdfe977b29" width=60% height=60%>
+<img src="https://github.com/user-attachments/assets/9325125d-7bed-42d7-a04f-d7cdfe977b29" width=67% height=67%>
 
 Mit der entsprechenden Prediction für das 8-Wochen-Intervall:
 
