@@ -11,7 +11,8 @@ Die Zielfrage ist, wie man diese Daten nutzen kann, um den Betrieb zu optimieren
 train.csv und store.csv: https://www.kaggle.com/c/rossmann-store-sales/data
 
 # Technologien & Libraries:
-pandas, numpy, seaborn, sklearn, IPython
+* Python in Jupyter Notebook
+* libs: pandas, numpy, seaborn, sklearn, IPython
 
 # Beschreibung des Vorgehens:
 * Daten eingelesen und bereinigt.
