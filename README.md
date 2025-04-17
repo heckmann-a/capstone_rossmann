@@ -1,4 +1,8 @@
 # capstone_rossmann
+## Mein Capstone-Projekt steht auf GitHub zur Verfügung und lässt sich direkt über nbviewer ansehen: 
+[Zum Notebook](https://nbviewer.org/github/heckmann-a/capstone_rossmann/blob/main/Capstone_Projekt_Rossmann_Heckmann.ipynb)
+
+&nbsp;
 
 # Aufgabenstellung:
 ### Die Ermittlung von Vorhersagen der wöchentlichen Umsatzerlöse für den Drogeriemarkt Rossmann.
