@@ -1,7 +1,7 @@
 # capstone_rossmann
 
 # Aufgabenstellung:
-Die Ermittlung von Vorhersagen der wöchentlichen Umsatzerlöse für den Drogeriemarkt Rossmann.\
+### Die Ermittlung von Vorhersagen der wöchentlichen Umsatzerlöse für den Drogeriemarkt Rossmann.
 Dieses Projekt soll untersuchen, welche Erkenntnisse Rossmann gewinnen kann aus den eigenen historischen Verkaufs- und Werbedaten sowie Daten zu Ferien, Feiertagen und Wettbewerbern.\
 Aktuell sind Filialleiter beauftragt, 8-Wochen-Prognosen zu erstellen.\
 Daher sind Data Scientists des Unternehmens angewiesen worden, eine genaurere Vorhersagemethode zu ermitteln als die bisherige, über den histotischen Mittelwert.\
