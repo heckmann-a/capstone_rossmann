@@ -28,7 +28,7 @@ train.csv und store.csv: https://www.kaggle.com/c/rossmann-store-sales/data
 
 # Ergebnisse:
 Durch Auswahl eines geeigneten ml-modells kann die Genauigkeit drastisch gesteigert werden.\
-Hier als Beispiell für die Filiale 764:
+Hier als Beispiel für die Filiale 764:
 
 <img src="https://github.com/user-attachments/assets/9325125d-7bed-42d7-a04f-d7cdfe977b29" width=67% height=67%>
 
