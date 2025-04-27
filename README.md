@@ -1,4 +1,9 @@
 # capstone_rossmann
+
+<img src="https://github.com/user-attachments/assets/75276b21-4ef6-4780-8395-33c787658961" alt="Bildbeschreibung" width="500"/>\
+"Cash Payment" von Storyset:[link](https://storyset.com/illustration/cash-payment/rafiki)
+
+
 ## Mein Capstone-Projekt steht auf GitHub zur Verfügung und lässt sich direkt über nbviewer ansehen: 
 [Zum Notebook](https://nbviewer.org/github/heckmann-a/capstone_rossmann/blob/main/Capstone_Projekt_Rossmann_Heckmann.ipynb)
 
