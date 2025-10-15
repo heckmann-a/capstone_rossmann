@@ -4,8 +4,8 @@
 "Cash Payment" von Storyset:[link](https://storyset.com/illustration/cash-payment/rafiki)
 
 
-## Mein Capstone-Projekt steht auf GitHub zur Verfügung und lässt sich direkt über nbviewer ansehen: 
-[Zum Notebook](https://nbviewer.org/github/heckmann-a/capstone_rossmann/blob/main/Capstone_Projekt_Rossmann_Heckmann.ipynb)
+## Mein Capstone-Projekt steht auf GitHub zur Verfügung und lässt sich direkt ansehen: 
+[Zum Notebook](https://colab.research.google.com/github/heckmann-a/capstone_rossmann/blob/main/Capstone_Projekt_Rossmann_Heckmann.ipynb)
 
 &nbsp;
 
